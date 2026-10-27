@@ -1,7 +1,6 @@
 # Crypto Trading Dashboard
 
 A React + TypeScript dashboard to **track**, **study** and **predict** cryptocurrencies.
-The original Helpdesk Note Taker is still included; switch between the two at the top of the page.
 
 ## Features
 

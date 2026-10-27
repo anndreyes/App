@@ -1,5 +1,5 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "crypto-trading-dashboard",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -35,14 +35,14 @@
     "typescript-eslint": "^8.3.0",
     "vite": "^7.0.5"
   },
-  "description": "HelpdeskNoteTaker",
+  "description": "Crypto trading dashboard to track, study and predict cryptocurrencies",
   "main": "main.js",
   "keywords": [],
   "author": "IAmITNoobie",
   "license": "ISC",
   "build": {
-    "appId": "com.IAmITNoobie.helpticket",
-    "productName": "Helpdesk Note Taker",
+    "appId": "com.IAmITNoobie.cryptodashboard",
+    "productName": "Crypto Trading Dashboard",
     "directories": {
       "output": "release"
     },
